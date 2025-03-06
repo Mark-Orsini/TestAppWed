@@ -1,6 +1,26 @@
 body {
+    font-family: Arial, sans-serif;
     background-color: black;
+    text-align: center;
 }
+
+
+h1 {
+    /*color: #3498db; //Color carácteres*/
+    font-size: 2em;
+}
+/*
+p {
+    color: #2c3e50;
+    font-size: 1.2em;
+}
+
+img {
+    width: 300px; //ancho
+    height: 200px; //alto
+    border-radius: 10px; //Bordes redondeados
+}
+*/
 
 .texto {
     position: relative;
